@@ -1,0 +1,4 @@
+# PicoCTF　Ph4nt0m 1ntrud3r
+
+PCAPファイルを開いてtime順でソート
+bace64の文字列があるので時間順で復号
