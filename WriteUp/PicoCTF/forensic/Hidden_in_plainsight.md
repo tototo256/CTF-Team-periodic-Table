@@ -12,7 +12,7 @@ Download the jpg image here.
 3. コロン以降をもう一度base64でデコードすると、pAzzwordが出力される
 4. よってこれはsteghideを使えというヒントであるため以下のコマンドを実行する
 ```bash
-steghide extract -sf img.jpg -p pAzzword
+$steghide extract -sf img.jpg -p pAzzword
 ```
 5. flag.txtが出力されるため、中身を確認するとフラグを入手できる
 6. フラグ picoCTF{h1dd3n_1n_1m4g3_e7f5b969}
