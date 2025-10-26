@@ -16,7 +16,7 @@ cpaw{復号した値}
 ```
 ### 解き方
 1. $C < M^e$より，Cのe乗根をとればMを手に入れられる
-2. 小平文攻撃を行うpythonコード
+2. Low Public-Exponent Attackを行うpythonコード
 ```python
 """
 Usage examples:
